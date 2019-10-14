@@ -3,8 +3,6 @@
   
   This is the source code of the paper named "Rapid Detection and Prediction of Influenza A Subtype Using Deep Convolutional Neural Network Based Ensemble Learning", which proposes a deep convolutional neural network based ensemble learning model to precisely detect all subtypes of influenza A viruses. This code runs with Python v3.5.2 and Keras v2.2.4.
 
-## Influenza data set access
-  The influenza sequences in this work are from [NCBI Influenza Virus database](https://www.ncbi.nlm.nih.gov/genomes/FLU/Database/nph-select.cgi#mainform). You should first download HA and NA protein sequences of influenza A.
 ## How to test the model?
   use the following command to test.
   ```Linux
