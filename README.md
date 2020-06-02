@@ -3,6 +3,25 @@
   
   This is the source code of the paper named "Rapid Detection and Prediction of Influenza A Subtype Using Deep Convolutional Neural Network Based Ensemble Learning", which proposes a deep convolutional neural network based ensemble learning model to precisely detect all subtypes of influenza A viruses. This code runs with Python v3.5.2 and Keras v2.2.4.
 
+This work has been published on [ICBBB '20: Proceedings of the 2020 10th International Conference on Bioscience, Biochemistry and Bioinformatics](https://dl.acm.org/doi/proceedings/10.1145/3386052), if you use the code, please cite the following paper:
+```
+@inproceedings{10.1145/3386052.3386053,
+author = {Wang, Yu and Bao, Junpeng and Du, Jianqiang and Li, Yongfeng},
+title = {Rapid Detection and Prediction of Influenza A Subtype Using Deep Convolutional Neural Network Based Ensemble Learning},
+year = {2020},
+isbn = {9781450376761},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3386052.3386053}, 
+doi = {10.1145/3386052.3386053},
+booktitle = {Proceedings of the 2020 10th International Conference on Bioscience, Biochemistry and Bioinformatics},
+pages = {47–51},
+numpages = {5},
+keywords = {Virus subtyping, Influenza A viruses, Ensemble learning, Convolutional neural network},
+location = {Kyoto, Japan},
+series = {ICBBB ’20}
+}
+```
 ## How to test the model?
   use the following command to test.
   ```Linux
